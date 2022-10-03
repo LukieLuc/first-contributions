@@ -16,6 +16,7 @@
 - [Idzanaagi](https://github.com/Idzanaagi)
 - [Andrei Fabian Pop](https://github.com/Andrei-Fabian-Pop)
 - [Frostbyte]
+- [Lucas Verfaillie]
 - [Tommy]
 - [Pujya Preyans]
 - [Jesus Elizalde](https://github.com/Jesus-Elizalde)
